@@ -6,4 +6,4 @@
 #### (c) Ichiro AKAI, Kumamoto University, 2025.
 ---
 #### GNU GENERAL PUBLIC LICENSE 
-#### https://www.gnu.org/licenses/gpl-3.0.html#license-text
+#### [https://www.gnu.org/licenses/gpl-3.0.html#license-text](URL){:target="_blank"}
