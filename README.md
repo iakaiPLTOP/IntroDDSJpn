@@ -9,3 +9,5 @@
 #### (c) Ichiro AKAI, Kumamoto University, 2025.
 ---
 #### GNU GENERAL PUBLIC LICENSE (<a href="https://www.gnu.org/licenses/gpl-3.0.html#license-text" target="_blank" rel="noopener noreferrer">https://www.gnu.org/licenses/gpl-3.0.html#license-text</a>)
+
+https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4
